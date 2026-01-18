@@ -9,7 +9,7 @@ Modern machines have auto modes that work well enough for most users, so it's be
 **Sleeper** is designed to help people with SA understand and improve their sleep.  Sleeper can import the logs created by a PAP machine and draw charts to visualize what happened overnight and help users see patterns.  It's designed to help new PAP users answer questions like:
 
 * Should I run my machine in auto (APAP) or manual (CPAP) mode?
-* What pressure(s) should I use?
+* What pressure(s) should I use?.
 * How many of these breathing problems are what people call "sleep/wake junk?"  People have poor breathing control during N1 stage sleep, the transition between wakefulness and sleep.  These might cause oxygen problems, but can't disrupt your sleep cycle yet at this stage, so being able to filter them out for a better picture of sleep fragmentation is important, but missing from Oscar and Sleep HQ.
 
 # Technology
